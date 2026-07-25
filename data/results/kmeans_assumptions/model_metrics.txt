@@ -1,0 +1,9 @@
+          Dataset                   Model  Clusters    Inertia  Silhouette  Davies_Bouldin  Calinski_Harabasz    ARI
+  Spherical blobs              KMeans k=2         2 15064.9416      0.5320          0.6523          2831.4035 0.4574
+Anisotropic blobs              KMeans k=3         3  1899.3067      0.5100          0.7066          3716.5019 0.6127
+ Unequal variance              KMeans k=3         3  5748.3284      0.6469          0.5689          5451.3198 0.8298
+     Uneven sizes KMeans k=3, n_init=auto         3  1293.4259      0.3771          0.9460          1273.9340 0.3821
+  Spherical blobs              KMeans k=3         3  2862.7319      0.7333          0.3645         10633.8689 1.0000
+     Uneven sizes   KMeans k=3, n_init=10         3  1203.6015      0.7449          0.3839          1391.6574 1.0000
+Anisotropic blobs     GaussianMixture k=3         3        NaN      0.4769          0.8576          2807.6875 1.0000
+ Unequal variance     GaussianMixture k=3         3        NaN      0.6193          0.5850          4552.8809 0.9664

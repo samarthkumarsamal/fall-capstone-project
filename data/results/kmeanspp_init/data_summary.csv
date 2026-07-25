@@ -1,0 +1,12 @@
+Metric,Value
+Number of samples,4000.0
+Number of features,2.0
+Number of true clusters,4.0
+Feature 1 mean,3.9825
+Feature 1 standard deviation,2.5884
+Feature 1 minimum,-1.1377
+Feature 1 maximum,9.6373
+Feature 2 mean,0.0528
+Feature 2 standard deviation,1.6009
+Feature 2 minimum,-3.124
+Feature 2 maximum,4.3363

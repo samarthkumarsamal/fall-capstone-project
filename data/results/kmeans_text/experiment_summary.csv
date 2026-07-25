@@ -1,0 +1,5 @@
+Experiment,Question,Primary_results_file,Primary_plot
+Experiment 1,How does centroid initialization affect the solution?,exp1_init_summary.csv,exp1_init_metrics.png
+Experiment 2,How does the selected number of clusters affect the solution?,exp2_k_metrics.csv,exp2_k_metrics.png
+Experiment 3,How sensitive is K-Means to the random seed?,exp3_seed_metrics.csv,exp3_seed_metrics.png
+Experiment 4,How does cluster geometry affect K-Means?,exp4_structure_metrics.csv,exp4_structures.png

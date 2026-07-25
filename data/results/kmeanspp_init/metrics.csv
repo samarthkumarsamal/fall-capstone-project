@@ -1,0 +1,2 @@
+Samples,Features,Clusters,Inertia,Silhouette,Calinski_Harabasz,Davies_Bouldin,Adjusted_Rand,Iterations,Fit_time_seconds
+4000,2,4,2794.24138282684,0.6749750740859763,16329.957974451425,0.45329082241188334,0.9940128458392711,3,1.3210236000013538

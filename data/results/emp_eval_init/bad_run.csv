@@ -1,0 +1,2 @@
+Estimator,Initialization,n_init,Inertia,ARI,Iterations
+MiniBatchKMeans,random,1,117.18129086788817,0.7244317275014789,34

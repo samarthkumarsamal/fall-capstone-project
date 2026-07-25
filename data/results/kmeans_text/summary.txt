@@ -1,0 +1,13 @@
+K-MEANS TEXT DOCUMENT CLUSTERING SUMMARY
+============================================================
+Documents analyzed: 3,387
+Known categories: 4
+TF-IDF features: 7,929
+TF-IDF non-zero percentage: 0.694%
+LSA components: 100
+LSA explained variance: 18.42%
+
+Best mean V-measure: KMeans: TF-IDF + LSA (0.4289)
+Best mean Adjusted Rand Index: KMeans: TF-IDF + LSA (0.3185)
+Best mean silhouette score: KMeans: TF-IDF + LSA (0.0317)
+Fastest clustering pipeline: KMeans: TF-IDF + LSA (0.0161 seconds)

@@ -1,0 +1,24 @@
+Dataset,Model,Cluster,Count,Percentage
+Spherical blobs,KMeans k=2,0,670,44.666666666666664
+Spherical blobs,KMeans k=2,1,830,55.333333333333336
+Anisotropic blobs,KMeans k=3,0,489,32.6
+Anisotropic blobs,KMeans k=3,1,503,33.53333333333333
+Anisotropic blobs,KMeans k=3,2,508,33.86666666666667
+Unequal variance,KMeans k=3,0,563,37.53333333333333
+Unequal variance,KMeans k=3,1,529,35.266666666666666
+Unequal variance,KMeans k=3,2,408,27.2
+Uneven sizes,"KMeans k=3, n_init=auto",0,240,39.34426229508197
+Uneven sizes,"KMeans k=3, n_init=auto",1,110,18.0327868852459
+Uneven sizes,"KMeans k=3, n_init=auto",2,260,42.622950819672134
+Spherical blobs,KMeans k=3,0,500,33.333333333333336
+Spherical blobs,KMeans k=3,1,500,33.333333333333336
+Spherical blobs,KMeans k=3,2,500,33.333333333333336
+Uneven sizes,"KMeans k=3, n_init=10",0,500,81.9672131147541
+Uneven sizes,"KMeans k=3, n_init=10",1,100,16.39344262295082
+Uneven sizes,"KMeans k=3, n_init=10",2,10,1.639344262295082
+Anisotropic blobs,GaussianMixture k=3,0,500,33.333333333333336
+Anisotropic blobs,GaussianMixture k=3,1,500,33.333333333333336
+Anisotropic blobs,GaussianMixture k=3,2,500,33.333333333333336
+Unequal variance,GaussianMixture k=3,0,502,33.46666666666667
+Unequal variance,GaussianMixture k=3,1,503,33.53333333333333
+Unequal variance,GaussianMixture k=3,2,495,33.0

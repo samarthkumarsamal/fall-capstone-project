@@ -1,0 +1,6 @@
+Selection_metric,Preferred_direction,Best_k,Metric_value
+Silhouette,Higher,10,0.04232207558369223
+Calinski_Harabasz,Higher,2,90.13965109836289
+Davies_Bouldin,Lower,10,4.3329621358957935
+V_measure,Higher,3,0.4370779096182673
+ARI,Higher,3,0.42075730402497286

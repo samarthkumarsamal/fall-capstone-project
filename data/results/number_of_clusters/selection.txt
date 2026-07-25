@@ -1,0 +1,28 @@
+PRELIMINARY NUMBER OF CLUSTERS SELECTION
+================================================================================
+
+Highest average silhouette:
+k = 2
+Average silhouette = 0.704979
+
+Preliminary selected model:
+k = 4
+Average silhouette = 0.650519
+Inertia = 908.3856
+Smallest cluster = 123
+Largest cluster = 128
+Cluster-size ratio = 1.0407
+
+Interpretation:
+The k = 2 solution has the highest average silhouette score. However, its
+largest cluster contains approximately three times as many observations as
+its smallest cluster. The corresponding visualization shows that three
+nearby groups have been combined into one large cluster.
+
+The k = 4 solution has the second-highest average silhouette score and its
+clusters have nearly equal sizes. Its visualization preserves the four main
+data groups without unnecessarily dividing them.
+
+Therefore, k = 4 is selected as the preliminary solution. This decision uses
+the silhouette score, inertia, cluster-size balance, and visual interpretation
+rather than relying on only one metric.

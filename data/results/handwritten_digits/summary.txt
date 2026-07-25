@@ -1,0 +1,38 @@
+K-MEANS CLUSTERING ON HANDWRITTEN DIGITS
+=========================================
+
+Notebook
+--------
+C:\Users\samsa\Documents\Capstone Project\Project\notebooks\module_2\01_handwritten_digits.ipynb
+
+Dataset
+-------
+Number of digit classes : 10
+Number of observations  : 1797
+Number of features      : 64
+Feature matrix shape    : (1797, 64)
+
+K-Means Configuration
+---------------------
+Number of clusters      : 10
+Primary initialization  : k-means++
+Number of initial runs  : 4
+Random state            : 0
+
+PCA Visualization
+-----------------
+Original dimensions     : 64
+Reduced dimensions      : 2
+Total explained variance: 0.285094
+
+Output Files
+------------
+Benchmark CSV : C:\Users\samsa\Documents\Capstone Project\Project\results\handwritten_digits\benchmark.csv
+PCA figure    : C:\Users\samsa\Documents\Capstone Project\Project\plots\handwritten_digits\pca_clusters.png
+
+Benchmark Results
+-----------------
+Initialization  Time (seconds)  Inertia  Homogeneity  Completeness  V-Measure    ARI    AMI  Silhouette
+     K-Means++           1.758  69545.0       0.5981        0.6448     0.6206 0.4693 0.6166      0.1558
+        Random           0.032  69735.0       0.6808        0.7225     0.7010 0.5741 0.6979      0.1745
+     PCA-Based           0.010  69513.0       0.5995        0.6468     0.6222 0.4682 0.6183      0.1568

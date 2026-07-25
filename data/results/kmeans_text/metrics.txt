@@ -1,0 +1,6 @@
+              Estimator  Train_time_sec   Inertia  Iterations  Homogeneity  Completeness  V_measure    ARI  Silhouette
+         KMeans: TF-IDF          0.1616 3199.7975        27.6       0.3491        0.3977     0.3718 0.2028      0.0070
+   KMeans: TF-IDF + LSA          0.0161 2848.1769        30.0       0.4080        0.4521     0.4289 0.3185      0.0317
+MiniBatch: TF-IDF + LSA          0.1114 2901.5287         8.0       0.2326        0.2877     0.2500 0.2046      0.0172
+     KMeans: Hash + LSA          0.0178 2893.1357        36.2       0.3354        0.4242     0.3722 0.2845      0.0283
+  MiniBatch: Hash + LSA          0.0955 2898.1731         7.8       0.2765        0.3152     0.2887 0.2349      0.0225

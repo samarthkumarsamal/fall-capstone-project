@@ -1,0 +1,11 @@
+K-Means Assumptions and Model Fit Tutorial
+
+Main conclusions:
+1. K-Means requires the analyst to specify the number of clusters.
+2. K-Means works best for compact and approximately spherical clusters.
+3. K-Means performs best when clusters have similar variance.
+4. Strongly unequal cluster sizes can hide small but meaningful groups.
+5. Multiple initializations can improve the optimization result.
+6. Multiple initializations do not remove all geometric limitations.
+7. Gaussian Mixture Models can represent elliptical clusters.
+8. Gaussian Mixture Models can represent clusters with different covariance structures.

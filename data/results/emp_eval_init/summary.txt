@@ -1,0 +1,20 @@
+EMPIRICAL EVALUATION OF K-MEANS INITIALIZATION
+====================================================
+Dataset: 9 well-separated Gaussian clusters in a 3 x 3 grid
+Samples: 900
+Independent runs per setting: 5
+n_init values: [1, 5, 10, 15, 20]
+
+Key numerical comparisons:
+- KMeans, n_init=1, k-means++ mean inertia: 17.5211
+- KMeans, n_init=1, random mean inertia: 96.3541
+- KMeans, n_init=20, random mean inertia: 17.5211
+- Bad MiniBatchKMeans run inertia: 117.1813
+- Bad MiniBatchKMeans run ARI: 0.7244
+
+Interpretation:
+- Lower inertia means observations are closer to their assigned centers.
+- k-means++ generally reaches a strong solution with fewer restarts.
+- Random initialization is more vulnerable when n_init is small.
+- Increasing n_init trades more computation for more robust convergence.
+- MiniBatchKMeans is efficient but adds approximation variability.
