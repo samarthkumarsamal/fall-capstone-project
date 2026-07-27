@@ -1,0 +1,21 @@
+variable,source_table,source_column,measurement_window,aggregation_rule
+age,patient,age,Recorded demographic value,One value per ICU stay
+heart_rate,vitalPeriodic,heartRate,First 24 hours,Mean of valid measurements
+mean_arterial_pressure,vitalAperiodic and vitalPeriodic,nonInvasiveMean and systemicMean,First 24 hours,Mean non-invasive MAP; invasive MAP used when non-invasive MAP is unavailable
+respiratory_rate,vitalPeriodic,respiration,First 24 hours,Mean of valid measurements
+oxygen_saturation,vitalPeriodic,saO2,First 24 hours,Mean of valid measurements
+temperature,vitalPeriodic,temperature,First 24 hours,Mean of valid measurements
+gcs,nurseCharting,nursingChartValue,First 24 hours,Minimum valid total GCS
+urine_output,intakeOutput,cellValueNumeric,First 24 hours,Sum of urine-specific output entries
+wbc,lab,labResult,First 24 hours,First valid result
+hemoglobin,lab,labResult,First 24 hours,First valid result
+platelets,lab,labResult,First 24 hours,First valid result
+sodium,lab,labResult,First 24 hours,First valid result
+potassium,lab,labResult,First 24 hours,First valid result
+bicarbonate,lab,labResult,First 24 hours,First valid result
+creatinine,lab,labResult,First 24 hours,First valid result
+glucose,lab,labResult,First 24 hours,First valid result
+lactate,lab,labResult,First 24 hours,First valid result
+total_bilirubin,lab,labResult,First 24 hours,First valid result
+albumin,lab,labResult,First 24 hours,First valid result
+inr,lab,labResult,First 24 hours,First valid result

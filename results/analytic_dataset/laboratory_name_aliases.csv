@@ -1,0 +1,26 @@
+analytic_variable,accepted_lab_name
+wbc,wbc x 1000
+wbc,wbc
+wbc,white blood cell count
+hemoglobin,hgb
+hemoglobin,hemoglobin
+platelets,platelets x 1000
+platelets,platelets
+platelets,platelet count
+sodium,sodium
+potassium,potassium
+bicarbonate,hco3
+bicarbonate,total co2
+bicarbonate,bicarbonate
+creatinine,creatinine
+glucose,glucose
+lactate,lactate
+lactate,lactic acid
+total_bilirubin,total bilirubin
+total_bilirubin,bilirubin total
+total_bilirubin,bilirubin - total
+total_bilirubin,bili total
+albumin,albumin
+inr,pt - inr
+inr,pt-inr
+inr,inr

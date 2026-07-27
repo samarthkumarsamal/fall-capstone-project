@@ -1,0 +1,15 @@
+feature,normalized_lab_name,labmeasurenamesystem,measurement_count
+albumin,albumin,g/dL,77466
+bicarbonate,bicarbonate,mmol/L,190474
+bicarbonate,hco3,mmol/L,111382
+bicarbonate,total co2,,45363
+creatinine,creatinine,mg/dL,201145
+glucose,glucose,mg/dL,211527
+hemoglobin,hgb,g/dL,211882
+inr,pt - inr,ratio,70729
+lactate,lactate,mmol/L,68513
+platelets,platelets x 1000,K/mcL,174208
+potassium,potassium,mmol/L,246760
+sodium,sodium,mmol/L,226470
+total_bilirubin,total bilirubin,mg/dL,67735
+wbc,wbc x 1000,K/mcL,171430

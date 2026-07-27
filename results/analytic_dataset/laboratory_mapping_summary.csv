@@ -1,0 +1,15 @@
+feature,normalized_lab_name,icu_stay_count
+albumin,albumin,60822
+bicarbonate,bicarbonate,87699
+bicarbonate,hco3,24745
+bicarbonate,total co2,9001
+creatinine,creatinine,121207
+glucose,glucose,120520
+hemoglobin,hgb,118164
+inr,pt - inr,50030
+lactate,lactate,35359
+platelets,platelets x 1000,115933
+potassium,potassium,122147
+sodium,sodium,121263
+total_bilirubin,total bilirubin,55001
+wbc,wbc x 1000,117040
