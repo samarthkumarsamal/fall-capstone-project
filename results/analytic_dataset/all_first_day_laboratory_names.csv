@@ -1,0 +1,158 @@
+normalized_lab_name,measurement_count
+bedside glucose,507061
+potassium,246760
+sodium,226470
+hgb,211882
+glucose,211527
+hct,206694
+chloride,203618
+creatinine,201145
+bun,199750
+calcium,193678
+bicarbonate,190474
+platelets x 1000,174208
+wbc x 1000,171430
+rbc,170639
+mcv,166737
+mchc,166595
+anion gap,159637
+rdw,159120
+mch,158430
+pao2,120121
+fio2,119320
+paco2,118736
+ph,117540
+mpv,116061
+magnesium,112574
+hco3,111382
+o2 sat,96407
+lymphs,89969
+monos,89390
+base excess,87454
+eos,81180
+basos,79944
+polys,79828
+albumin,77466
+pt inr,70729
+phosphate,70614
+ast sgot,69411
+alt sgpt,68574
+lactate,68513
+total protein,68474
+pt,68448
+total bilirubin,67735
+alkaline phos,67225
+troponin i,66506
+ptt,55680
+total co2,45363
+peep,36833
+cpk,35629
+temperature,35262
+ionized calcium,34141
+tv,30641
+carboxyhemoglobin,27424
+methemoglobin,27421
+cpk mb,26355
+base deficit,23478
+urinary specific gravity,21320
+vent rate,18851
+o2 content,17844
+respiratory rate,16893
+triglycerides,16158
+troponin t,15323
+direct bilirubin,13791
+hdl,13409
+total cholesterol,13264
+fibrinogen,13107
+tsh,13026
+cpk mb index,12075
+bands,11594
+oxyhemoglobin,10195
+ldl,10050
+pressure support,8615
+lpm o2,8248
+bnp,7277
+lipase,6004
+serum osmolality,5883
+ammonia,5814
+urinary sodium,5652
+urinary creatinine,4555
+wbc s in urine,4445
+ldh,4084
+fe,3849
+free t4,3827
+amylase,3635
+cortisol,3553
+vitamin b12,3451
+peak airway pressure,2941
+tibc,2912
+prealbumin,2899
+ferritin,2849
+spontaneous rate,2810
+urinary osmolality,2804
+vancomycin random,2791
+folate,2668
+esr,2631
+vancomycin trough,2557
+crp,2509
+ptt ratio,2489
+fe tibc ratio,2280
+uric acid,2191
+acetaminophen,1494
+digoxin,1262
+phenytoin,1191
+salicylate,1028
+reticulocyte count,1010
+ethanol,949
+haptoglobin,902
+myoglobin,899
+transferrin,829
+device,778
+protein csf,715
+glucose csf,700
+pressure control,638
+wbc s in cerebrospinal fluid,604
+vent other,585
+t4,530
+24 h urine protein,483
+wbc s in body fluid,444
+tacrolimus fk506,388
+lithium,367
+t3,300
+serum ketones,293
+protein c,241
+prolactin,222
+mode,214
+protein s,209
+tobramycin random,197
+crp hs,188
+t3ru,168
+carbamazepine,150
+gentamicin random,147
+cd 4,143
+anf ana,134
+theophylline,131
+wbc s in pleural fluid,97
+site,94
+wbc s in peritoneal fluid,84
+phenobarbital,82
+cyclosporin,66
+gentamicin trough,57
+lidocaine,55
+gentamicin peak,39
+24 h urine urea nitrogen,32
+wbc s in synovial fluid,20
+wbc s in pericardial fluid,19
+clostridium difficile toxin a b,14
+tobramycin trough,14
+legionella pneumophila ab,12
+amikacin random,10
+tobramycin peak,10
+hsv 1 2 igg ab,9
+amikacin peak,3
+amikacin trough,3
+napa,3
+procainamide,3
+vancomycin peak,3
+hsv 1 2 igg ab titer,2
+hiv 1 2 ab,2

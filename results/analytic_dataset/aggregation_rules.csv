@@ -1,0 +1,30 @@
+variable,measurement_window,aggregation_rule
+age,Recorded demographic value,One value per ICU stay
+sex_female,Recorded demographic value,"Female=1, Male=0"
+elixhauser_count,Diagnosis entered during first 24 hours,Count unique Elixhauser categories
+heart_rate,First 24 hours,Mean of valid measurements
+respiratory_rate,First 24 hours,Mean of valid measurements
+systolic_blood_pressure,First 24 hours,Mean non-invasive SBP; systemic SBP used as fallback
+temperature,First 24 hours,Mean after converting Fahrenheit values to Celsius
+oxygen_saturation,First 24 hours,Mean of valid measurements
+gcs,First 24 hours,Minimum total GCS
+wbc,First 24 hours,First valid laboratory result
+band_count,First 24 hours,First valid laboratory result
+esr,First 24 hours,First valid laboratory result
+crp,First 24 hours,First valid laboratory result
+ast,First 24 hours,First valid laboratory result
+alt,First 24 hours,First valid laboratory result
+total_bilirubin,First 24 hours,First valid laboratory result
+bun,First 24 hours,First valid laboratory result
+creatinine,First 24 hours,First valid laboratory result
+inr,First 24 hours,First valid laboratory result
+pao2,First 24 hours,First valid laboratory result
+platelets,First 24 hours,First valid laboratory result
+troponin,First 24 hours,First valid laboratory result
+glucose,First 24 hours,First valid laboratory result
+sodium,First 24 hours,First valid laboratory result
+hemoglobin,First 24 hours,First valid laboratory result
+chloride,First 24 hours,First valid laboratory result
+bicarbonate,First 24 hours,First valid laboratory result
+lactate,First 24 hours,First valid laboratory result
+albumin,First 24 hours,First valid laboratory result

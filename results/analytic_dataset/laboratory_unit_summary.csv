@@ -1,15 +1,23 @@
 feature,normalized_lab_name,labmeasurenamesystem,measurement_count
 albumin,albumin,g/dL,77466
+alt,alt sgpt,Units/L,68574
+ast,ast sgot,Units/L,69411
+band_count,bands,%,11594
 bicarbonate,bicarbonate,mmol/L,190474
 bicarbonate,hco3,mmol/L,111382
 bicarbonate,total co2,,45363
+bun,bun,mg/dL,199750
+chloride,chloride,mmol/L,203618
 creatinine,creatinine,mg/dL,201145
+crp,crp,mg/dL,2509
+esr,esr,mm/hr,2631
 glucose,glucose,mg/dL,211527
 hemoglobin,hgb,g/dL,211882
-inr,pt - inr,ratio,70729
+inr,pt inr,ratio,70729
 lactate,lactate,mmol/L,68513
+pao2,pao2,mm Hg,120121
 platelets,platelets x 1000,K/mcL,174208
-potassium,potassium,mmol/L,246760
 sodium,sodium,mmol/L,226470
 total_bilirubin,total bilirubin,mg/dL,67735
+troponin,troponin i,ng/mL,66506
 wbc,wbc x 1000,K/mcL,171430

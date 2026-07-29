@@ -3,6 +3,6 @@ All ICU stay records in the patient table,200859,0,200859
 Valid ICU stay identifier,200859,0,200859
 Remove duplicate ICU stay identifiers,200859,0,200859
 Known patient age,200859,95,200764
-Adult ICU stays with age 18 years or older,200764,530,200234
+Adults aged 18 years or older,200764,530,200234
 ICU stay lasting at least 24 hours,200234,67623,132611
-At least 10 of the 20 features are observed,132611,9211,123400
+At least 15 of 29 variables observed,132611,16038,116573

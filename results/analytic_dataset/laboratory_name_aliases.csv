@@ -1,26 +1,57 @@
-analytic_variable,accepted_lab_name
-wbc,wbc x 1000
-wbc,wbc
-wbc,white blood cell count
-hemoglobin,hgb
-hemoglobin,hemoglobin
-platelets,platelets x 1000
-platelets,platelets
-platelets,platelet count
-sodium,sodium
-potassium,potassium
-bicarbonate,hco3
-bicarbonate,total co2
-bicarbonate,bicarbonate
-creatinine,creatinine
-glucose,glucose
-lactate,lactate
-lactate,lactic acid
-total_bilirubin,total bilirubin
-total_bilirubin,bilirubin total
-total_bilirubin,bilirubin - total
-total_bilirubin,bili total
-albumin,albumin
-inr,pt - inr
-inr,pt-inr
-inr,inr
+analytic_variable,accepted_lab_name,normalized_lab_name
+wbc,wbc x 1000,wbc x 1000
+wbc,wbc,wbc
+wbc,white blood cell count,white blood cell count
+band_count,bands,bands
+band_count,bands %,bands
+band_count,band count,band count
+band_count,band neutrophils,band neutrophils
+esr,esr,esr
+esr,sed rate,sed rate
+esr,sedimentation rate,sedimentation rate
+esr,erythrocyte sedimentation rate,erythrocyte sedimentation rate
+crp,crp,crp
+crp,c-reactive protein,c reactive protein
+crp,c reactive protein,c reactive protein
+ast,ast,ast
+ast,ast (sgot),ast sgot
+ast,sgot,sgot
+ast,aspartate aminotransferase,aspartate aminotransferase
+alt,alt,alt
+alt,alt (sgpt),alt sgpt
+alt,sgpt,sgpt
+alt,alanine aminotransferase,alanine aminotransferase
+total_bilirubin,total bilirubin,total bilirubin
+total_bilirubin,bilirubin total,bilirubin total
+total_bilirubin,bilirubin - total,bilirubin total
+total_bilirubin,bili total,bili total
+bun,bun,bun
+bun,blood urea nitrogen,blood urea nitrogen
+bun,urea nitrogen,urea nitrogen
+creatinine,creatinine,creatinine
+inr,pt - inr,pt inr
+inr,pt-inr,pt inr
+inr,inr,inr
+pao2,pao2,pao2
+pao2,po2 - arterial,po2 arterial
+pao2,arterial po2,arterial po2
+pao2,oxygen partial pressure arterial,oxygen partial pressure arterial
+platelets,platelets x 1000,platelets x 1000
+platelets,platelets,platelets
+platelets,platelet count,platelet count
+troponin,troponin i,troponin i
+troponin,troponin-i,troponin i
+troponin,troponin - i,troponin i
+troponin,troponin i quantitative,troponin i quantitative
+glucose,glucose,glucose
+sodium,sodium,sodium
+hemoglobin,hgb,hgb
+hemoglobin,hemoglobin,hemoglobin
+chloride,chloride,chloride
+chloride,cl,cl
+bicarbonate,hco3,hco3
+bicarbonate,total co2,total co2
+bicarbonate,bicarbonate,bicarbonate
+lactate,lactate,lactate
+lactate,lactic acid,lactic acid
+albumin,albumin,albumin
