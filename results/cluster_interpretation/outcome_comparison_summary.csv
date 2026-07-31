@@ -1,0 +1,9 @@
+outcome,cluster,summary_type,available_n,event_count,event_percent,median,q1,q3
+icu_mortality,0,N (%),32714,4229.0,12.927187137005564,,,
+icu_mortality,1,N (%),83853,2297.0,2.7393176153506733,,,
+hospital_mortality,0,N (%),32385,6674.0,20.608306314651845,,,
+hospital_mortality,1,N (%),83119,4518.0,5.435580312563914,,,
+icu_length_of_stay_days,0,Median [IQR],32719,,,3.027083333333333,1.882638888888889,5.581597222222222
+icu_length_of_stay_days,1,Median [IQR],83854,,,2.1743055555555557,1.5506944444444444,3.841666666666667
+hospital_length_of_stay_days,0,Median [IQR],32717,,,8.830555555555556,5.04375,15.615972222222222
+hospital_length_of_stay_days,1,Median [IQR],83847,,,6.308333333333334,3.8097222222222222,10.845138888888888

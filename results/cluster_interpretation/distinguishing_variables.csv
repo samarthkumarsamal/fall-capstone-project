@@ -1,0 +1,11 @@
+cluster,variable,standardized_center_value,display_name,absolute_center_value,direction,rank_within_cluster
+0,creatinine,0.9755942994267958,Creatinine,0.9755942994267958,Above overall average,1
+0,bun,0.9336225690338724,Blood urea nitrogen,0.9336225690338724,Above overall average,2
+0,ast,0.5879817994086274,AST,0.5879817994086274,Above overall average,3
+0,bicarbonate,-0.518228364500235,Bicarbonate,0.518228364500235,Below overall average,4
+0,alt,0.5041415955761934,ALT,0.5041415955761934,Above overall average,5
+1,creatinine,-0.3811526258819454,Creatinine,0.3811526258819454,Below overall average,1
+1,bun,-0.3647547899562197,Blood urea nitrogen,0.3647547899562197,Below overall average,2
+1,ast,-0.2297172164157451,AST,0.2297172164157451,Below overall average,3
+1,bicarbonate,0.2024654121614165,Bicarbonate,0.2024654121614165,Above overall average,4
+1,alt,-0.1969618857788335,ALT,0.1969618857788335,Below overall average,5

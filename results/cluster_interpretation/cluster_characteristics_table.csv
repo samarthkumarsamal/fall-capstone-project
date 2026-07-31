@@ -1,0 +1,32 @@
+Variable,Unit,Summary method,Overall,Cluster 0,Cluster 1,Difference measure,Difference value,Difference direction
+Number of ICU stays,N,Count,"116,573","32,719","83,854",,,
+Percentage of cohort,%,Percentage,100.0%,28.1%,71.9%,,,
+Age,years,Mean ± SD,63.92 ± 16.47,66.06 ± 15.39,63.09 ± 16.80,Cohen's d,0.181,Higher in Cluster 0
+Female sex,N (%),N (%),"52,897 (45.4%)","13,134 (40.1%)","39,763 (47.4%)",Percentage-point difference,-7.278,Higher in Cluster 1
+Elixhauser comorbidity count,count,Median [IQR],"1.00 [0.00, 1.00]","1.00 [0.00, 2.00]","1.00 [0.00, 1.00]",Cohen's d,0.292,Higher in Cluster 0
+Heart rate,beats/min,Mean ± SD,85.59 ± 16.38,90.49 ± 17.25,83.67 ± 15.62,Cohen's d,0.424,Higher in Cluster 0
+Respiratory rate,breaths/min,Median [IQR],"19.01 [16.65, 21.95]","19.71 [17.41, 23.52]","19.01 [16.43, 21.35]",Cohen's d,0.315,Higher in Cluster 0
+Systolic blood pressure,mm Hg,Mean ± SD,119.69 ± 18.92,113.10 ± 18.36,122.27 ± 18.51,Cohen's d,-0.497,Higher in Cluster 1
+Temperature,°C,Median [IQR],"37.12 [37.12, 37.12]","37.12 [37.12, 37.12]","37.12 [37.12, 37.12]",Cohen's d,-0.179,Higher in Cluster 1
+Oxygen saturation,%,Median [IQR],"97.10 [95.61, 98.49]","97.29 [95.71, 98.71]","97.06 [95.57, 98.39]",Cohen's d,0.038,Higher in Cluster 0
+Glasgow Coma Scale,score,Median [IQR],"14.00 [11.00, 15.00]","14.00 [9.00, 15.00]","14.00 [13.00, 15.00]",Cohen's d,-0.327,Higher in Cluster 1
+White blood cell count,×10³/µL,Median [IQR],"10.80 [7.90, 14.80]","11.80 [8.30, 17.50]","10.60 [7.80, 13.90]",Cohen's d,0.341,Higher in Cluster 0
+Band count,%,Median [IQR],"7.80 [7.80, 7.80]","7.80 [7.80, 7.80]","7.80 [7.80, 7.80]",Cohen's d,0.180,Higher in Cluster 0
+Erythrocyte sedimentation rate,mm/hour,Median [IQR],"31.00 [31.00, 31.00]","31.00 [31.00, 31.00]","31.00 [31.00, 31.00]",Cohen's d,0.093,Higher in Cluster 0
+C-reactive protein,source unit,Median [IQR],"9.10 [9.10, 9.10]","9.10 [9.10, 9.10]","9.10 [9.10, 9.10]",Cohen's d,0.023,Higher in Cluster 0
+AST,U/L,Median [IQR],"32.00 [32.00, 32.00]","32.00 [32.00, 92.00]","32.00 [29.00, 32.00]",Cohen's d,0.449,Higher in Cluster 0
+ALT,U/L,Median [IQR],"27.00 [27.00, 27.00]","27.00 [27.00, 59.00]","27.00 [27.00, 27.00]",Cohen's d,0.423,Higher in Cluster 0
+Total bilirubin,mg/dL,Median [IQR],"0.64 [0.64, 0.64]","0.64 [0.64, 1.20]","0.64 [0.64, 0.64]",Cohen's d,0.525,Higher in Cluster 0
+Blood urea nitrogen,mg/dL,Median [IQR],"20.00 [13.00, 33.00]","41.00 [27.00, 61.00]","16.00 [11.00, 23.00]",Cohen's d,1.598,Higher in Cluster 0
+Creatinine,mg/dL,Median [IQR],"1.00 [0.75, 1.60]","2.10 [1.34, 3.61]","0.88 [0.70, 1.14]",Cohen's d,1.345,Higher in Cluster 0
+International normalized ratio,ratio,Median [IQR],"1.30 [1.30, 1.30]","1.30 [1.30, 1.60]","1.30 [1.30, 1.30]",Cohen's d,0.603,Higher in Cluster 0
+Arterial PaO₂,mm Hg,Median [IQR],"103.00 [103.00, 103.00]","103.00 [100.00, 103.00]","103.00 [103.00, 103.00]",Cohen's d,0.060,Higher in Cluster 0
+Platelet count,×10³/µL,Median [IQR],"191.00 [143.00, 247.00]","171.00 [113.00, 229.00]","195.00 [154.00, 253.00]",Cohen's d,-0.322,Higher in Cluster 1
+Troponin,source unit,Median [IQR],"0.19 [0.19, 0.19]","0.19 [0.19, 0.19]","0.19 [0.19, 0.19]",Cohen's d,0.045,Higher in Cluster 0
+Glucose,mg/dL,Median [IQR],"128.00 [104.00, 164.00]","136.00 [106.00, 188.00]","126.00 [103.00, 157.00]",Cohen's d,0.354,Higher in Cluster 0
+Sodium,mEq/L,Mean ± SD,138.33 ± 5.35,137.88 ± 6.48,138.51 ± 4.83,Cohen's d,-0.117,Higher in Cluster 1
+Hemoglobin,g/dL,Mean ± SD,10.95 ± 2.28,10.01 ± 2.25,11.32 ± 2.19,Cohen's d,-0.595,Higher in Cluster 1
+Chloride,mEq/L,Mean ± SD,104.32 ± 6.75,104.18 ± 7.97,104.38 ± 6.21,Cohen's d,-0.030,Higher in Cluster 1
+Bicarbonate,mEq/L,Mean ± SD,24.09 ± 5.62,21.17 ± 5.52,25.23 ± 5.24,Cohen's d,-0.762,Higher in Cluster 1
+Lactate,mmol/L,Median [IQR],"1.70 [1.70, 1.70]","1.70 [1.70, 2.40]","1.70 [1.70, 1.70]",Cohen's d,0.649,Higher in Cluster 0
+Albumin,g/dL,Mean ± SD,2.88 ± 0.49,2.67 ± 0.55,2.96 ± 0.44,Cohen's d,-0.607,Higher in Cluster 1

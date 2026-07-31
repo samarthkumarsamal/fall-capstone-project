@@ -1,0 +1,59 @@
+cluster,variable,standardized_center_value,display_name,absolute_center_value,direction,rank_within_cluster
+0,age,0.1294052686954075,Age,0.1294052686954075,Above overall average,19
+1,age,-0.0505570378949452,Age,0.0505570378949452,Below overall average,19
+0,sex_female,-0.1052124745151748,Female sex,0.1052124745151748,Below overall average,21
+1,sex_female,0.0411052124438986,Female sex,0.0411052124438986,Above overall average,21
+0,elixhauser_count,0.1788572072142669,Elixhauser comorbidity count,0.1788572072142669,Above overall average,17
+1,elixhauser_count,-0.06987729861447,Elixhauser comorbidity count,0.06987729861447,Below overall average,17
+0,heart_rate,0.3001432862573641,Heart rate,0.3001432862573641,Above overall average,13
+1,heart_rate,-0.1172622695366769,Heart rate,0.1172622695366769,Below overall average,13
+0,respiratory_rate,0.2188837217067812,Respiratory rate,0.2188837217067812,Above overall average,15
+1,respiratory_rate,-0.0855151627478424,Respiratory rate,0.0855151627478424,Below overall average,15
+0,systolic_blood_pressure,-0.3490657920201162,Systolic blood pressure,0.3490657920201162,Below overall average,11
+1,systolic_blood_pressure,0.1363756874268319,Systolic blood pressure,0.1363756874268319,Above overall average,11
+0,temperature,-0.1280108736753816,Temperature,0.1280108736753816,Below overall average,20
+1,temperature,0.0500122650075864,Temperature,0.0500122650075864,Above overall average,20
+0,oxygen_saturation,0.0260868382430513,Oxygen saturation,0.0260868382430513,Above overall average,27
+1,oxygen_saturation,-0.0101918050393905,Oxygen saturation,0.0101918050393905,Below overall average,27
+0,gcs,-0.2318103601142604,Glasgow Coma Scale,0.2318103601142604,Below overall average,14
+1,gcs,0.0905654404869951,Glasgow Coma Scale,0.0905654404869951,Above overall average,14
+0,wbc,0.1656312451493499,White blood cell count,0.1656312451493499,Above overall average,18
+1,wbc,-0.0647100788246325,White blood cell count,0.0647100788246325,Below overall average,18
+0,band_count,0.0649557961691346,Band count,0.0649557961691346,Above overall average,24
+1,band_count,-0.0253774261398045,Band count,0.0253774261398045,Below overall average,24
+0,esr,0.0546307619798441,Erythrocyte sedimentation rate,0.0546307619798441,Above overall average,25
+1,esr,-0.0213435629900553,Erythrocyte sedimentation rate,0.0213435629900553,Below overall average,25
+0,crp,0.0408435621368796,C-reactive protein,0.0408435621368796,Above overall average,26
+1,crp,-0.0159570745421482,C-reactive protein,0.0159570745421482,Below overall average,26
+0,ast,0.5879817994086274,AST,0.5879817994086274,Above overall average,3
+1,ast,-0.2297172164157451,AST,0.2297172164157451,Below overall average,3
+0,alt,0.5041415955761934,ALT,0.5041415955761934,Above overall average,5
+1,alt,-0.1969618857788335,ALT,0.1969618857788335,Below overall average,5
+0,total_bilirubin,0.4960173986371979,Total bilirubin,0.4960173986371979,Above overall average,6
+1,total_bilirubin,-0.1937878625211097,Total bilirubin,0.1937878625211097,Below overall average,6
+0,bun,0.9336225690338724,Blood urea nitrogen,0.9336225690338724,Above overall average,2
+1,bun,-0.3647547899562197,Blood urea nitrogen,0.3647547899562197,Below overall average,2
+0,creatinine,0.9755942994267958,Creatinine,0.9755942994267958,Above overall average,1
+1,creatinine,-0.3811526258819454,Creatinine,0.3811526258819454,Below overall average,1
+0,inr,0.480511246165634,International normalized ratio,0.480511246165634,Above overall average,7
+1,inr,-0.1877298005425566,International normalized ratio,0.1877298005425566,Below overall average,7
+0,pao2,0.002722583511789,Arterial PaO₂,0.002722583511789,Above overall average,29
+1,pao2,-0.0010636797030378,Arterial PaO₂,0.0010636797030378,Below overall average,29
+0,platelets,-0.3266492269151866,Platelet count,0.3266492269151866,Below overall average,12
+1,platelets,0.1276178127057337,Platelet count,0.1276178127057337,Above overall average,12
+0,troponin,0.0891433881199595,Troponin,0.0891433881199595,Above overall average,22
+1,troponin,-0.0348272191441703,Troponin,0.0348272191441703,Below overall average,22
+0,glucose,0.205558752724681,Glucose,0.205558752724681,Above overall average,16
+1,glucose,-0.0803092621800497,Glucose,0.0803092621800497,Below overall average,16
+0,sodium,-0.0855927069434927,Sodium,0.0855927069434927,Below overall average,23
+1,sodium,0.03344001192609,Sodium,0.03344001192609,Above overall average,23
+0,hemoglobin,-0.4125140082297011,Hemoglobin,0.4125140082297011,Below overall average,10
+1,hemoglobin,0.1611641207233545,Hemoglobin,0.1611641207233545,Above overall average,10
+0,chloride,-0.0231718624837553,Chloride,0.0231718624837553,Below overall average,28
+1,chloride,0.0090529600649048,Chloride,0.0090529600649048,Above overall average,28
+0,bicarbonate,-0.518228364500235,Bicarbonate,0.518228364500235,Below overall average,4
+1,bicarbonate,0.2024654121614165,Bicarbonate,0.2024654121614165,Above overall average,4
+0,lactate,0.4632772593131588,Lactate,0.4632772593131588,Above overall average,8
+1,lactate,-0.1809966950425353,Lactate,0.1809966950425353,Below overall average,8
+0,albumin,-0.4210986026314596,Albumin,0.4210986026314596,Below overall average,9
+1,albumin,0.164518015575231,Albumin,0.164518015575231,Above overall average,9

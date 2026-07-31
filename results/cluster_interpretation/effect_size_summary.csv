@@ -1,0 +1,30 @@
+variable,display_name,effect_measure,effect_value,absolute_effect_value,direction
+sex_female,Female sex,Percentage-point difference,-7.277510438142009,7.277510438142009,Higher in Cluster 1
+bun,Blood urea nitrogen,Cohen's d,1.5976586129897867,1.5976586129897867,Higher in Cluster 0
+creatinine,Creatinine,Cohen's d,1.344889281307598,1.344889281307598,Higher in Cluster 0
+bicarbonate,Bicarbonate,Cohen's d,-0.7623750456748912,0.7623750456748912,Higher in Cluster 1
+lactate,Lactate,Cohen's d,0.6485438721792707,0.6485438721792707,Higher in Cluster 0
+albumin,Albumin,Cohen's d,-0.6072848205427727,0.6072848205427727,Higher in Cluster 1
+inr,International normalized ratio,Cohen's d,0.6034368166413628,0.6034368166413628,Higher in Cluster 0
+hemoglobin,Hemoglobin,Cohen's d,-0.5948973399262939,0.5948973399262939,Higher in Cluster 1
+total_bilirubin,Total bilirubin,Cohen's d,0.5250745637710936,0.5250745637710936,Higher in Cluster 0
+systolic_blood_pressure,Systolic blood pressure,Cohen's d,-0.4965121331920794,0.4965121331920794,Higher in Cluster 1
+ast,AST,Cohen's d,0.4488100079111683,0.4488100079111683,Higher in Cluster 0
+heart_rate,Heart rate,Cohen's d,0.4239444965115898,0.4239444965115898,Higher in Cluster 0
+alt,ALT,Cohen's d,0.42265537907305284,0.42265537907305284,Higher in Cluster 0
+glucose,Glucose,Cohen's d,0.35364188761928184,0.35364188761928184,Higher in Cluster 0
+wbc,White blood cell count,Cohen's d,0.34053819076343345,0.34053819076343345,Higher in Cluster 0
+gcs,Glasgow Coma Scale,Cohen's d,-0.32655003997833776,0.32655003997833776,Higher in Cluster 1
+platelets,Platelet count,Cohen's d,-0.32228413081107266,0.32228413081107266,Higher in Cluster 1
+respiratory_rate,Respiratory rate,Cohen's d,0.3147838473858705,0.3147838473858705,Higher in Cluster 0
+elixhauser_count,Elixhauser comorbidity count,Cohen's d,0.2922656344715398,0.2922656344715398,Higher in Cluster 0
+age,Age,Cohen's d,0.18078577826035924,0.18078577826035924,Higher in Cluster 0
+band_count,Band count,Cohen's d,0.17959952705918136,0.17959952705918136,Higher in Cluster 0
+temperature,Temperature,Cohen's d,-0.1792215200066654,0.1792215200066654,Higher in Cluster 1
+sodium,Sodium,Cohen's d,-0.11671090458806241,0.11671090458806241,Higher in Cluster 1
+esr,Erythrocyte sedimentation rate,Cohen's d,0.09318286149786303,0.09318286149786303,Higher in Cluster 0
+pao2,Arterial PaO₂,Cohen's d,0.05954347320022774,0.05954347320022774,Higher in Cluster 0
+troponin,Troponin,Cohen's d,0.04512746824397515,0.04512746824397515,Higher in Cluster 0
+oxygen_saturation,Oxygen saturation,Cohen's d,0.03773169617298551,0.03773169617298551,Higher in Cluster 0
+chloride,Chloride,Cohen's d,-0.029855168689401246,0.029855168689401246,Higher in Cluster 1
+crp,C-reactive protein,Cohen's d,0.02268720178511877,0.02268720178511877,Higher in Cluster 0

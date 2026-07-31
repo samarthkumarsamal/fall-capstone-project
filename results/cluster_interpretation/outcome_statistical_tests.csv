@@ -1,0 +1,5 @@
+outcome,test,statistic,p_value,interpretation
+icu_mortality,Chi-square test,4619.679657581259,0.0,Exploratory association only; not proof of clinical validity or causality
+hospital_mortality,Chi-square test,6129.198152929593,0.0,Exploratory association only; not proof of clinical validity or causality
+icu_length_of_stay_days,Mann–Whitney U test,1674214216.0,0.0,Exploratory association only; not proof of clinical validity or causality
+hospital_length_of_stay_days,Mann–Whitney U test,1672947700.5,0.0,Exploratory association only; not proof of clinical validity or causality

@@ -1,0 +1,30 @@
+variable,display_name,unit,overall_skewness,selected_summary_method
+age,Age,years,-0.569738207654691,Mean ± SD
+sex_female,Female sex,N (%),0.1857293984582359,N (%)
+elixhauser_count,Elixhauser comorbidity count,count,1.7657659670425538,Median [IQR]
+heart_rate,Heart rate,beats/min,0.35101468730179886,Mean ± SD
+respiratory_rate,Respiratory rate,breaths/min,1.275917008458001,Median [IQR]
+systolic_blood_pressure,Systolic blood pressure,mm Hg,0.5618569842880572,Mean ± SD
+temperature,Temperature,°C,-7.0656198694053405,Median [IQR]
+oxygen_saturation,Oxygen saturation,%,-1.8113905489613973,Median [IQR]
+gcs,Glasgow Coma Scale,score,-1.5558001457942106,Median [IQR]
+wbc,White blood cell count,×10³/µL,4.799926984720498,Median [IQR]
+band_count,Band count,%,9.833643733636357,Median [IQR]
+esr,Erythrocyte sedimentation rate,mm/hour,11.248185197027594,Median [IQR]
+crp,C-reactive protein,source unit,36.35781890959593,Median [IQR]
+ast,AST,U/L,14.349529765724347,Median [IQR]
+alt,ALT,U/L,15.793933208930673,Median [IQR]
+total_bilirubin,Total bilirubin,mg/dL,12.138796421086035,Median [IQR]
+bun,Blood urea nitrogen,mg/dL,2.3891271752133556,Median [IQR]
+creatinine,Creatinine,mg/dL,4.35017476623772,Median [IQR]
+inr,International normalized ratio,ratio,7.9432201980346,Median [IQR]
+pao2,Arterial PaO₂,mm Hg,3.6217501061072555,Median [IQR]
+platelets,Platelet count,×10³/µL,1.6140830809537932,Median [IQR]
+troponin,Troponin,source unit,26.094808964840027,Median [IQR]
+glucose,Glucose,mg/dL,4.720759331860363,Median [IQR]
+sodium,Sodium,mEq/L,-0.20510945674535308,Mean ± SD
+hemoglobin,Hemoglobin,g/dL,0.1648163735308679,Mean ± SD
+chloride,Chloride,mEq/L,-0.31858945870238387,Mean ± SD
+bicarbonate,Bicarbonate,mEq/L,0.4864306157014281,Mean ± SD
+lactate,Lactate,mmol/L,6.654552762413315,Median [IQR]
+albumin,Albumin,g/dL,-0.2075350432111265,Mean ± SD
